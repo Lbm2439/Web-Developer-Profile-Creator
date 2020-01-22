@@ -55,6 +55,7 @@ inquirer.prompt(questions).then(answers => {
                 <div class="row">
                     <div class="col-sm card repos">
                         <h1>Repositories</h1>
+                        <h3> ${publicRepos} </h3> 
                         </div>
                 </div>
                 <div class="row">
@@ -65,11 +66,13 @@ inquirer.prompt(questions).then(answers => {
                 <div class="row">
                     <div class="col-sm  card followers">
                         <h1>Followers</h1>
+                        <h3> ${followers} </h3> 
                         </div>
                 </div>
                 <div class="row">
                     <div class="col-sm card following">
                         <h1>Following</h1>
+                        <h3> ${usersFollowing} </h3>
                         </div>
                 </div>
                 </div>
