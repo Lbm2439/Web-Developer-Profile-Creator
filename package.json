@@ -1,0 +1,27 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "An application that takes data from the developer and builds a resume based off input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lbm2439/Developer-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lbm2439/Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Lbm2439/Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "create-html": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.3",
+    "puppeteer": "^2.0.0"
+  }
+}

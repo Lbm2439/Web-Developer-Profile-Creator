@@ -1,0 +1,40 @@
+
+.card {
+    background-color: white;
+    border-radius: 5px;
+    margin: 2rem;
+    height: 12vh;
+    box-shadow: 5px 5px 5px grey;
+    max-width: 30%;
+    text-align: center;
+}
+.name {
+    background-color: transparent;
+    text-align: center;
+    height: 10rem;
+    padding: 2rem;
+
+}
+.wrapper {
+    background-color: rgb(245, 232, 216);
+    height: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+#circle {
+    width: 900px;
+    height: 900px;
+    background: rgb(130, 180, 245);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 490px;
+    float: right;
+    margin-top: -35rem;
+    
+}
+#photo{
+    margin-top: 13rem;
+    margin-left: 15rem;
+    border-radius: 249px;
+}
