@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Lbm2439/Developer-Profile-Generator#readme",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "create-html": "^4.1.0",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
